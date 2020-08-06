@@ -1,9 +1,6 @@
 package user;
 
-import java.util.HashMap;
-
 public class User {
-
     private String name;
     private String login;
     private long phone;
@@ -40,5 +37,4 @@ public class User {
                 ", phone=" + phone +
                 '}';
     }
-
 }
